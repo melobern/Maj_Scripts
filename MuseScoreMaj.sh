@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /opt
+cd /opt/MuseScore
 
 # URL de la page de téléchargement de MuseScore
 url="https://musescore.org/en/download/musescore-x86_64.AppImage"
