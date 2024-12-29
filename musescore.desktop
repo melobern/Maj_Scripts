@@ -2,8 +2,6 @@
 Name=MuseScore
 GenericName=Éditeur de partitions musicales
 Comment=Créer, jouer et imprimer des partitions musicales
-Exec=musescore %F
-Icon=musescore
 Terminal=false
 Type=Application
 Categories=AudioVideo;Music;
